@@ -6,3 +6,5 @@ output:
   toc_float: true 
 ---
 Hello there and welcome to our website!
+
+We are creating the ultimate guide to NYC dogs! 
